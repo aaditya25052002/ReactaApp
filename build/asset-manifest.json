@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ReactaApp/static/css/main.fc1bc4fc.css",
+    "main.js": "/ReactaApp/static/js/main.e145076f.js",
+    "static/media/tobi.jpg": "/ReactaApp/static/media/tobi.0d72e8cacba53d533ab9.jpg",
+    "static/media/hidan.jpg": "/ReactaApp/static/media/hidan.68342e73b19eedf59e40.jpg",
+    "static/media/kisame.webp": "/ReactaApp/static/media/kisame.df7d96c60955aa23fe83.webp",
+    "static/media/akatsuki.png": "/ReactaApp/static/media/akatsuki.eabf435f2bc80af77899.png",
+    "index.html": "/ReactaApp/index.html",
+    "main.fc1bc4fc.css.map": "/ReactaApp/static/css/main.fc1bc4fc.css.map",
+    "main.e145076f.js.map": "/ReactaApp/static/js/main.e145076f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc1bc4fc.css",
+    "static/js/main.e145076f.js"
+  ]
+}

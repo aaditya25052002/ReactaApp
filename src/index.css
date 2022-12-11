@@ -66,3 +66,27 @@
   bottom: 0;
   width: 100%;  
 }
+
+.img-fluid-animated{
+  height: 50vh !important;
+}
+
+@media only screen and (max-width: 1029px) {
+  .img-fluid-animated{
+    height: 25vh !important;
+  }
+}
+
+.small-text{
+  font-size: 1rem;
+}
+
+.lesser{
+  display: flex;
+  justify-content: center;
+}
+
+.call{
+  text-decoration: underline;
+  
+}
